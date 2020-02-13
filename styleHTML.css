@@ -1,0 +1,12 @@
+body {
+  background-color: indigo;
+  color: white;
+  font-family: verdana;
+  font-size: 75%;
+  text-align: center;
+}
+h1 {
+  color: white;
+  font-family: arial;
+  font-size: 200%;
+}
